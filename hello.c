@@ -4,8 +4,6 @@ int main(void)
 {
     string s = get_string();
     printf("Hello, %s\n", s);
-    printf("And hello world!\n");
-    BUGGG
-    printf("And universe!\n");
+    printf("and the universe\n");
     return 0;
 }
