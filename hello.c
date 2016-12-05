@@ -6,5 +6,6 @@ int main(void)
     printf("Hello, %s\n", s);
     printf("And hello world!\n");
     BUGGG
+    printf("And universe!\n");
     return 0;
 }
